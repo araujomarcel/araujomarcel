@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcel Araujo
+#  Marcel Araujo
 
 
 Olá, eu sou o Marcel Araujo, estudante do último semestre de Desenvolvimento de Software Multiplataforma na FATEC. Apaixonado por tecnologia, estou sempre buscando aprender e aplicar novas habilidades em projetos que façam a diferença. 🚀
