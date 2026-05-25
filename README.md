@@ -1,9 +1,9 @@
 #  Marcel Araujo
 
 
-Olá, eu sou o Marcel Araujo, Sou formado no curso de Desenvolvimento de Software Multiplataforma na FATEC. Apaixonado por tecnologia, estou sempre buscando aprender e aplicar novas habilidades em projetos que façam a diferença. 🚀
+Olá, eu sou o Marcel Araujo, Sou formado no curso de Desenvolvimento de Software Multiplataforma na FATEC e atualmente curso MBA em Inteligência Artificial e Big Data na USP. Apaixonado por tecnologia, estou sempre buscando aprender e aplicar novas habilidades em projetos que façam a diferença. 🚀
 
-Atualmente, dedico meu tempo a desenvolver soluções que integram inovação, acessibilidade e sustentabilidade, utilizando ferramentas modernas como Django, Flutter, MongoDB, e muito mais. 🌱💻
+Atualmente, dedico meu tempo a desenvolver soluções que integram inovação, acessibilidade e sustentabilidade, utilizando ferramentas modernas como Java, Django, MongoDB, e muito mais. 🌱💻
 
 Seja bem-vindo ao meu GitHub!
 
